@@ -9,4 +9,4 @@
 
 1. cd .gazebo/models/
 
-2. git clone https://github.com/RobotDesign3ros2020-7/stamp_model.git
+2. git clone https://github.com/RobotDesign3ros2020-7/inkpad_model.git
